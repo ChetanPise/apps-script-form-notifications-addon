@@ -28,7 +28,7 @@
  * A global constant String holding the title of the add-on. This is
  * used to identify the add-on in the notification emails.
  */
-var ADDON_TITLE = 'Form Notifications';
+var ADDON_TITLE = 'Bharat Unnati Abhiyan';
 
 /**
  * A global constant 'notice' text to include with each email
